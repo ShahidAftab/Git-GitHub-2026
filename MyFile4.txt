@@ -1,2 +1,3 @@
 Hi this file is 4.
 Worked by main.
+Try fetch command concept.
